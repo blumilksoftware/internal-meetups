@@ -1,0 +1,28 @@
+[http.routers.traefik-dashboard]
+    rule = "Host(`traefik.example.com`) && (PathPrefix(`/api`) || PathPrefix(`/dashboard`))"
+    service = "api@internal"
+    middlewares = ["traefik-dashboard-auth"]
+
+[http.middlewares.traefik-dashboard-auth.basicAuth]
+    users = [
+        "user:$2y$05$ggmhEb7eVyKN194s7B1VguhYfrtTaT/WBL6ltToifcHC2edBddc8y",
+    ]
+
+#[[tls.certificates]]
+#    certFile = "/etc/certs/rootCA.pem"
+#    keyFile = "/etc/certs/rootCA-key.pem"
+
+#[[tls.certificates]]
+#    certFile = "/etc/certs/_wildcard.docker.localhost.pem"
+#    keyFile = "/etc/certs/_wildcard.docker.localhost-key.pem"
+
+#[[tls.certificates]]
+#    certFile = "/etc/certs/docker.localhost.pem"
+#    keyFile = "/etc/certs/docker.localhost-key.pem"
+
+#[http.routers.traefik]
+#    rule = "Host(`traefik.docker.localhost`)"
+#    service = "api@internal"
+#    [[http.routers.traefik.tls.domains]]
+#        main = "docker.localhost"
+#        sans = ["*.docker.localhost"]

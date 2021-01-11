@@ -1,0 +1,34 @@
+version: "3.8"
+
+services:
+    apache-fpm:
+        build:
+            context: ./.docker/apache/fpm
+        container_name: symfony-apache-fpm
+        working_dir: /app
+        labels:
+            - "traefik.enable=true"
+            - "traefik.http.routers.symfony-apache-fpm.rule=Host(`symfony-apache-fpm`)"
+        networks:
+            - traefik-network
+        volumes:
+            - ./:/app
+        expose:
+            - 80
+
+    symfony-php-fpm:
+        build:
+            context: .
+            dockerfile: ./.docker/php-fpm/Dockerfile
+        container_name: symfony-php-fpm
+        working_dir: /app
+        tty: true
+        networks:
+            - traefik-network
+        volumes:
+            - ./:/app
+            - ./.docker/php-fpm/php-ini-overrides.ini:/etc/php/7.4/fpm/conf.d/99-overrides.ini
+
+networks:
+    traefik-network:
+        external: true

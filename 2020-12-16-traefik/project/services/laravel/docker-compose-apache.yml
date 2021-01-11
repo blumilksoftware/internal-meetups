@@ -1,0 +1,24 @@
+version: "3.8"
+
+services:
+    apache:
+        build:
+            context: ./.docker/apache/mod_php
+        container_name: laravel-apache
+        working_dir: /app
+        tty: true
+        labels:
+            - "traefik.enable=true"
+            - "traefik.http.routers.laravel-apache.rule=Host(`laravel-apache`)"
+        networks:
+            - traefik-network
+        volumes:
+            - ./:/app
+        environment:
+            - APACHE_DOCUMENT_ROOT=/app/public
+        expose:
+            - 80
+
+networks:
+    traefik-network:
+        external: true
