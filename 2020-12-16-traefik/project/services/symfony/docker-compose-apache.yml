@@ -1,0 +1,24 @@
+version: "3.8"
+
+services:
+    apache:
+        build:
+            context: ./.docker/apache/mod_php
+        container_name: symfony-apache
+        working_dir: /app
+        tty: true
+        labels:
+            - "traefik.enable=true"
+            - "traefik.http.routers.symfony-apache.rule=Host(`symfony-apache`)"
+        networks:
+            - traefik-network
+        volumes:
+            - ./:/app
+        environment:
+            - APACHE_DOCUMENT_ROOT=/app/public
+        expose:
+            - 80
+
+networks:
+    traefik-network:
+        external: true

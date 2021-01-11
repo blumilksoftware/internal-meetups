@@ -1,0 +1,19 @@
+version: "3.8"
+
+services:
+    whoami:
+        image: traefik/whoami
+        labels:
+            - "traefik.http.routers.whoami.rule=Host(`whoami.docker.localhost`)"
+            - "traefik.enable=true"
+            # htpasswd - when used in docker-compose.yml all dollar signs in the hash need to be doubled for escaping.
+            - "traefik.http.middlewares.whoami-auth.basicauth.users=user:$$2y$$05$$Gx7GG00AvkQ9Kno7KIYXqu4fl3m34ua5vI05/fv.8tcXoNB9dBrTS"
+            - "traefik.http.routers.whoami.middlewares=whoami-auth@docker"
+
+#            - "traefik.http.routers.whoami.tls=true"
+        networks:
+            - traefik-network
+
+networks:
+    traefik-network:
+        external: true

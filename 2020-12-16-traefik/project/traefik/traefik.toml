@@ -1,0 +1,16 @@
+[entryPoints]
+    [entryPoints.http]
+        address = ":80"
+    [entryPoints.https]
+        address = ":443"
+
+[api]
+    insecure = false
+    dashboard = true
+
+[providers]
+    [providers.docker]
+        exposedByDefault = false
+    [providers.file]
+        filename = "/etc/traefik/config.toml"
+        watch = true

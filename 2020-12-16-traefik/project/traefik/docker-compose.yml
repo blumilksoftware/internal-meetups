@@ -1,0 +1,25 @@
+version: "3.8"
+
+services:
+    traefik-proxy:
+        image: traefik:v2.3
+        container_name: traefik-2.3-proxy
+        restart: always
+        networks:
+            - traefik-network
+        ports:
+            - 80:80
+            - 443:443
+            - 1234:8080
+        volumes:
+            - /var/run/docker.sock:/var/run/docker.sock:ro
+            # static config
+            - ./traefik.toml:/etc/traefik/traefik.toml:ro
+            # dynamic config
+            - ./dynamic/config.toml:/etc/traefik/config.toml:ro
+            # certificates
+            - ./certs:/etc/certs:ro
+
+networks:
+    traefik-network:
+        external: true

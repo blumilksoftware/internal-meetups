@@ -1,0 +1,36 @@
+version: "3.8"
+
+services:
+    nginx:
+        image: nginx:alpine
+        container_name: symfony-nginx
+        working_dir: /app
+        labels:
+            - "traefik.enable=true"
+            - "traefik.http.routers.symfony-nginx.rule=Host(`symfony-nginx`)"
+        networks:
+            - traefik-network
+        volumes:
+            - ./:/app
+            - ./.docker/nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+        expose:
+            - 80
+
+    symfony-php-fpm-for-nginx:
+        build:
+            context: .
+            dockerfile: ./.docker/php-fpm/Dockerfile
+        container_name: container-symfony-php-fpm-for-nginx
+        working_dir: /app
+        tty: true
+        networks:
+            - traefik-network
+        expose:
+            - 9000
+        volumes:
+            - ./:/app
+            - ./.docker/php-fpm/php-ini-overrides.ini:/etc/php/7.4/fpm/conf.d/99-overrides.ini
+
+networks:
+    traefik-network:
+        external: true
