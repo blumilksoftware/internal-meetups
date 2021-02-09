@@ -5,8 +5,8 @@ services:
         container_name: reveal.js
         image: ghcr.io/mlencki/reveal.js-docker:v1.0.0
         environment:
-            PRESENTATION_PATH: 2021-01-27-livewire
+            PRESENTATION_PATH: ${PRESENTATION_PATH}
         ports:
-            - 8888:8000
+            - ${PRESENTATION_PORT}:8000
         volumes:
             - ./:/app/presentations
