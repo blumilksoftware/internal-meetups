@@ -7,16 +7,16 @@ Prowadzący następnego spotkania powininen być wytypowany na bieżącym spotka
 | # | Data | Prowadzący | Temat | Link |
 | --- | --- | --- | --- | --- |
 | #1 | 16 grudnia 2020 | [Marcin Tracz](https://github.com/mtracz) | Zarządzanie kontenerami w Traefiku | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2020-12-16-traefik) |
-| #2 | 27 stycznia 2021 | [Mateusz Lencki](https://github.com/mlencki) | Livewire | |
-| #3 | 17 lutego 2021 | [Ewelina Lasowy](https://github.com/EwelinaLasowy) | | |
+| #2 | 27 stycznia 2021 | [Mateusz Lencki](https://github.com/mlencki) | Livewire | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-01-27-livewire) |
+| #3 | 17 lutego 2021 | [Ewelina Lasowy](https://github.com/EwelinaLasowy) | Laravel Nova | |
 | #4 | 17 marca 2021 | | | |
 
 ### Propozycje tematów
 Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotkania, możesz zawsze skorzystać z podpowiedzi z listy poniżej. Jeżeli natomiast masz fajny temat o którym chciałbyś posłuchać, dodaj własne propozycje do tej samej listy:
-* [Laravel Nova](https://nova.laravel.com/)
 * laravelowe paczki do uwierzytelniania: [Sanctum](https://laravel.com/docs/8.x/sanctum), [Fortify](https://laravel.com/docs/8.x/fortify), [Jetstream](https://jetstream.laravel.com/1.x/introduction.html), [Breeze](https://laravel.com/docs/8.x/starter-kits#laravel-breeze)
 * testowanie z [Pestem](https://pestphp.com/)
 * jak korzystać z [GitHub Actions](https://github.com/features/actions)
+* Linux i przydatne sztuczki ułatwiające życie (+ zarządzanie uprawnieniami)
 * pewnie milion innych rzeczy (śmiało dopisujcie)
 
 ### Repozytorium
