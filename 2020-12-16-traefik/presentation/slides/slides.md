@@ -24,66 +24,66 @@ https://github.com/traefik/traefik
 ---
 ## Features
 \
-  <img data-src="./../images/features.JPG">
+  <img data-src="presentations/2020-12-16-traefik/presentation/images/features.JPG">
 
 ---
 ## Companies
 \
-<img data-src="./../images/companies.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/companies.JPG">
 
 ---
-<img data-src="./../images/traefik-overall.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/traefik-overall.JPG">
 
 ---
-<img data-src="./../images/traefik-overall2.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/traefik-overall2.JPG">
 
 ---
-<img data-src="./../images/docker-compose.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/docker-compose.JPG">
 
 ---
-<img data-src="./../images/docker-compose2.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/docker-compose2.JPG">
 
 ---
-<img data-src="./../images/configuration.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/configuration.JPG">
 
 ---
-<img data-src="./../images/rule-path.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/rule-path.JPG">
 
 ---
-<img data-src="./../images/architecture.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/architecture.JPG">
 
 ---
-<img data-src="./../images/entrypoints.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/entrypoints.JPG">
 
 ---
-<img data-src="./../images/routers.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/routers.JPG">
 
 ---
-<img data-src="./../images/routers2.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/routers2.JPG">
 
 ---
-<img data-src="./../images/providers.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/providers.JPG">
 
 ---
-<img data-src="./../images/middleware.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/middleware.JPG">
 
 ---
-<img data-src="./../images/middleware.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/middleware.JPG">
 
 https://doc.traefik.io/traefik/middlewares/overview/
 
 ---
 ## Traefik Pilot: The Control Center for Traefik
-<img data-src="./../images/pilot.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/pilot.JPG">
 
 ---
-<img data-src="./../images/dashboard.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/dashboard.JPG">
 
 ---
-<img data-src="./../images/tracing.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/tracing.JPG">
 
 ---
-<img data-src="./../images/metrics.JPG">
+<img data-src="presentations/2020-12-16-traefik/presentation/images/metrics.JPG">
 
 ---
 ## File Configuration Reference
