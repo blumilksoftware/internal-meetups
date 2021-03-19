@@ -10,8 +10,8 @@ Prowadzący następnego spotkania powininen być wytypowany na bieżącym spotka
 | #2 | 27 stycznia 2021 | [Mateusz Lencki](https://github.com/mlencki) | Livewire | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-01-27-livewire) |
 | #3 | 24 lutego 2021 | [Ewelina Lasowy](https://github.com/EwelinaLasowy) | Laravel Nova | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-02-24-laravel-nova) |
 | #4 | 19 marca 2021 | [Magdalena Bukowska](https://github.com/mbukowska) | RubixML | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-03-19-rubixml) |
-| #4 | 21 kwietnia 2021 | [Jacek Sawoszczuk](https://github.com/jsawo) | | |
-| #5 | 19 maja 2021 | | | |
+| #5 | 21 kwietnia 2021 | [Jacek Sawoszczuk](https://github.com/jsawo) | | |
+| #6 | 19 maja 2021 | | | |
 
 ### Propozycje tematów
 Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotkania, możesz zawsze skorzystać z podpowiedzi z listy poniżej. Jeżeli natomiast masz fajny temat o którym chciałbyś posłuchać, dodaj własne propozycje do tej samej listy:
