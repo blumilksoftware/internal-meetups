@@ -19,6 +19,22 @@ Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotk
 * testowanie z [Pestem](https://pestphp.com/)
 * jak korzystać z [GitHub Actions](https://github.com/features/actions)
 * Linux i przydatne sztuczki ułatwiające życie (+ zarządzanie uprawnieniami)
+* Platformy e-commerce w Laravel
+* GUI do zarządzania kontenerami Dockerowymi (np. [Portainer](https://www.portainer.io/))
+* CI/CD (np. [Buddy works](https://buddy.works/))
+* Tips, tricks and plugins - PHPStorm
+* Narzędzia przydatne podczas developerki 
+* Laravel Enlightn ([Enlightn](https://www.laravel-enlightn.com))
+* Appwire ([Appwire](https://appwrite.io/))
+* xD bug ([xDebug](https://xdebug.org/))
+* Swoole ([Swoole](https://www.swoole.co.uk/))
+* RoadRunner ([RoadRunner](https://roadrunner.dev/))
+* PHP PPM ([PPM](https://github.com/php-pm/php-pm))
+* FFI PHP extension (Foreign Function Interface) ([FFI](https://www.php.net/manual/en/book.ffi.php))
+* Laravel + Docker + Jobs - konfiguracja i użycie
+* Horizon ([Horizon](https://laravel.com/docs/8.x/horizon))
+* Telescope ([Telescope](https://laravel.com/docs/8.x/telescope))
+* Docker Performance Improvement: Tips and Tricks
 * pewnie milion innych rzeczy (śmiało dopisujcie)
 
 ### Repozytorium
