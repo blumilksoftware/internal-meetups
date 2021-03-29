@@ -19,7 +19,7 @@ Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotk
 * testowanie z [Pestem](https://pestphp.com/)
 * jak korzystać z [GitHub Actions](https://github.com/features/actions)
 * Linux i przydatne sztuczki ułatwiające życie (+ zarządzanie uprawnieniami)
-* Platformy e-coommerce w Laravel
+* Platformy e-commerce w Laravel
 * GUI do zarządzania kontenerami Dockerowymi (np. [Portainer](https://www.portainer.io/))
 * CI/CD (np. [Buddy works](https://buddy.works/))
 * Tips, tricks and plugins - PHPStorm
