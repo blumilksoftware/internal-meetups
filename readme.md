@@ -12,7 +12,7 @@ Prowadzący następnego spotkania powininen być wytypowany na bieżącym spotka
 | #4 | 19 marca 2021 | [Magdalena Bukowska](https://github.com/mbukowska) | RubixML | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-03-19-rubixml) |
 | #5 | 21 kwietnia 2021 | [Jacek Sawoszczuk](https://github.com/jsawo) | Linux | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-04-21-linux) |
 | #6 | 27 maja 2021 | [Piotr Nadybski](https://github.com/nadybski) | Algorytmy szeregowania zadań i rozdziału zasobów w systemach wieloprocesorowych | |
-| #7 | 16 czerwca 2021 | [Kamil Stefaniak](https://github.com/husskade) | | |
+| #7 | 30 czerwca 2021 | [Kamil Stefaniak](https://github.com/husskade) | Krypotwaluty | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-06-30-cryptocurrencies) |
 | #8 | 21 lipca 2021 | | | |
 
 ### Propozycje tematów
