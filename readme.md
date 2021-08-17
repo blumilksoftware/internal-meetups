@@ -13,7 +13,8 @@ Prowadzący następnego spotkania powininen być wytypowany na bieżącym spotka
 | #5 | 21 kwietnia 2021 | [Jacek Sawoszczuk](https://github.com/jsawo) | Linux | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-04-21-linux) |
 | #6 | 27 maja 2021 | [Piotr Nadybski](https://github.com/nadybski) | Algorytmy szeregowania zadań i rozdziału zasobów w systemach wieloprocesorowych | |
 | #7 | 30 czerwca 2021 | [Kamil Stefaniak](https://github.com/husskade) | Krypotwaluty | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-06-30-cryptocurrencies) |
-| #8 | 21 lipca 2021 | | | |
+| #8 | 3 sierpnia 2021 | [Adrian Hopek](https://github.com/Baakoma) | Inertia.js | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-08-03-inertia) |
+| #9 | 18 sierpnia 2021 | [Kamil Piech](https://github.com/kamilpiech97) | | |
 
 ### Propozycje tematów
 Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotkania, możesz zawsze skorzystać z podpowiedzi z listy poniżej. Jeżeli natomiast masz fajny temat o którym chciałbyś posłuchać, dodaj własne propozycje do tej samej listy:
