@@ -53,6 +53,7 @@ if (!empty($_POST)) {
         <button id="invalid" class="m-1 p-2 rounded border border-gray-300 flex-1">niepoprawne</button>
         <button id="valid" class="m-1 p-2 rounded border border-gray-300 flex-1">poprawne</button>
         <button id="injection" class="m-1 p-2 rounded border border-gray-300 flex-1">SQLi</button>
+        <button id="injection2" class="m-1 p-2 rounded border border-gray-300 flex-1">SQLi2</button>
     </div>
 </div>
 
@@ -76,5 +77,12 @@ if (!empty($_POST)) {
     document.getElementById('name').value = 'admin'
     document.getElementById('password').value = "password' OR 1=1 --"
     document.getElementById('password2').value = "password' OR 1=1 --"
+  })
+
+  const injection2 = document.querySelector('#injection2')
+  injection2.addEventListener('click', function () {
+    document.getElementById('name').value = "whatever' OR 1=1 --"
+    document.getElementById('password').value = ""
+    document.getElementById('password2').value = ""
   })
 </script>
