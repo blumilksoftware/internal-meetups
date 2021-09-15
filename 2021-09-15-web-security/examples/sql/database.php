@@ -16,7 +16,7 @@ if (isset($_GET["id"])) {
 
 <div class="container mx-auto mt-12">
     <?php
-    if ($user && ($user = $user->fetchArray())) { ?>
+    if (isset($user) && $user && ($user = $user->fetchArray())) { ?>
         <div class="w-96 mx-auto flex flex-col">
             <label class="w-full m-1">
                 <input id="id" name="id" type="text" placeholder="ID" class="p-2 rounded border border-gray-300 w-full" value="<?php
