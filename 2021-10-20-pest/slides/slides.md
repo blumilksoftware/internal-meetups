@@ -1,6 +1,5 @@
 ## Blumilk Internal Meetup #11
 
-
 \
 \
 <img src="presentations/2021-10-20-pest/images/logo.png" width="300px">
@@ -25,13 +24,16 @@ php artisan pest:install
 ```
 
 ---
+
 ```php
 tests
     - Unit/ComponentTest.php <--
     - Feature/HomeTest.php <--
 phpunit.xml
 ```
+
 ---
+
 ```php
 <?php
 
@@ -45,6 +47,7 @@ it('has home', function () {
     // ..
 });
 ```
+
 ---
 
 ```php
@@ -56,11 +59,13 @@ test('asserts true is true', function () {
     expect(true)->toBeTrue();
 });
 ```
+
 ---
 
 ```php
 ./vendor/bin/pest
 ```
+
 ---
 
 ```php
@@ -85,6 +90,7 @@ it('has users')->assertDatabaseHas('users', [
     'id' => 1,
 ]);
 ```
+
 ---
 
 ### uses()
@@ -114,7 +120,9 @@ uses(TestCase::class)->in('Feature');
 // Uses the given trait in the "Unit" folder recursively
 uses(RefreshDatabase::class)->in('Unit');
 ```
+
 ---
+
 ```php
 tests
     - Unit/ComponentTest.php
@@ -122,19 +130,23 @@ tests
     - Pest.php <--
 phpunit.xml
 ```
+
 ---
 ### Expectations
 ---
+
 ```php
 expect()->extend('toBeOne', function () {
     return $this->toBe(1);
 });
 ```
+
 ```php
 it('is one', function () {
     $this->expect(1)->toBeOne();
 });
 ```
+
 ---
 
 ### FUNCTIONS
@@ -151,12 +163,14 @@ function something()
 ---
 ### setup/teardown functions
 ---
+
 - beforeEach()
 - afterEach()
 - beforeAll()
 - afterAll()
 
 ---
+
 ```php
 // Pest.php
 
@@ -164,23 +178,69 @@ uses()
     ->beforeEach(fn () => $this->actingAs(User::first()))
     ->in('Feature/Dashboard');
 ```
+
 ---
 ### GROUPS
 ---
+
 ```php
 it('has home', function () {
     // ..
 })->group('integration', 'browser');
 ```
+
 ```php
 ./vendor/bin/pest --group=integration,browser
 ```
+
+---
+### Skipping Tests
+---
+
+```php
+it('has home', function () {
+    // ..
+})->skip();
+```
+
+---
+
+```php
+it('has home', function () {
+    // ..
+})->skip(fn() => DB::getDriverName() === 'mysql', 'Only runs when using mysql');
+```
+
+---
+
+```php
+it('has home', function () {
+    // ..
+})->only();
+```
+
+---
+### Coverage
+---
+
+```php
+./vendor/bin/pest --coverage
+```
+
+---
+
+<img width="800" data-src="presentations/2021-10-20-pest/images/coverage.png">
+
 ---
 livewire()
 ---
+
 ```php
 composer require pestphp/pest-plugin-livewire --dev
 ```
+
+---
+
 ```php
 <?php
 
@@ -197,11 +257,13 @@ it('can be incremented', function () {
         ->assertSee(1);
 });
 ```
+
 ---
 
 Laravel Dusk
 
 ---
+
 ```php
 <?php
 
@@ -209,6 +271,7 @@ use Tests\DuskTestCase;
  
 uses(DuskTestCase::class)->in('Browser');
 ```
+
 ```php
 <?php
  
@@ -221,6 +284,7 @@ it('has homepage', function () {
     });
 });
 ```
+
 ---
 
 # The End
