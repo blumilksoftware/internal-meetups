@@ -19,8 +19,8 @@ Prowadzący następnego spotkania powininen być wytypowany na bieżącym spotka
 | #9 | 18 sierpnia 2021 | [Kamil Piech](https://github.com/kamilpiech97) | laravelowe paczki do uwierzytelniania | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-08-18-laravel-auth) |
 | #10 | 15 września 2021 | [Krzysztof Rewak](https://github.com/krzysztofrewak) | SQL Injection i XSS | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-09-15-web-security) |
 | #11 | 20 października 2021 | [Kamil Piech](https://github.com/kamilpiech97) | testowanie z PESTEM | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-10-20-pest) |
-| #12 | 17 listopada 2021 | [Kamil Stefaniak](https://github.com/husskade) | TBA | |
-| #13 | 15 grudnia 2021 | | | |
+| #12 | 17 listopada 2021 | [Kamil Stefaniak](https://github.com/husskade) | Kryptografia | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-11-17-cryptography) |
+| #13 | 15 grudnia 2021 | Mateusz Lencki | TBA | |
 | #14 | 19 stycznia 2022 | | | |
 
 ### Propozycje tematów

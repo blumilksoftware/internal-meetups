@@ -1,3 +1,4 @@
+
 <h3>Blumilk Internal Meetup #12</h3>
 <h2>Crypto<span class="fragment highlight-red strike">currencies</span><span class="fragment fade-in">graphy</span></h2>
 <img class="r-stretch" data-src="presentations/2021-11-17-cryptography/images/cover.png">
@@ -32,7 +33,7 @@
         <ul class="r-fit-text">
             <li>More practical application of OTP</li>
             <li>Replaces random key with pseudorandom generator - we only need to exchange the seed</li>
-            <li>Stops being perfectly secure</li>
+            <li>Stops being perfectly secure; actually block ciphers are more secure</li>
         </ul>
 </section>
 <section>
@@ -64,13 +65,13 @@
 <section>
     <ul class="r-fit-text">
         <li>md5 -> SHA1 -> SHA2 -> SHA3 (never use them for password storage!)</li>
-        <li>DES / 3DES</li>
-        <li>RSA - ever-growing key length (current NIST recommendation is 2048); Shor's algorithm (as of now, the factorization of 21 was achieved)</li>
+        <li>DES / 3DES - not cracked, but small effective key length and block sizes, hence deprecated by the NIST since 2017 for new applications and for all applications by 2023</li>
+        <li>RSA - ever-growing key length (current NIST recommendation is 2048)</li>
         <img class="r-stretch" data-src="presentations/2021-11-17-cryptography/images/rsa.webp">
         <li>Post-quantum cryptography
             <ul>
                 <li>Symmetrical cryptography is largely safe; Grover's algorithm requires doubling the key lengths</li>
-                <li>All asymmetric algorithms that rely on the integer factorization problem, the discrete logarithm problem or the elliptic-curve discrete logarithm problem can be made obsolete by Shor's algorithm</li>
+                <li>All asymmetric algorithms that rely on the integer factorization problem, the discrete logarithm problem or the elliptic-curve discrete logarithm problem can be made obsolete by Shor's algorithm (as of now, the factorization of 21 was achieved)</li>
                 <li>Many PQC algorithms are developed</li>
                 <li>Quantum key distribution - one time pad possible</li>
             </ul>
@@ -90,7 +91,7 @@
         <li>Use available, open-source standards - don't implement your own cryptography</li>
         <li>Kerchoof's principle: <span style="font-style: italic">"A cryptosystem should be secure even if everything about the system, except the key, is public knowledge"</span></li>
         <li>Implement and use the tools correctly</li>
-        <li>Human as the weakest link - force safe passwords (check against blaclists, absolute minimum of 8 characters, maxiumum of at least 64) and 2FA</li>
+        <li>Human as the weakest link - force safe passwords (check against blacklists, absolute minimum of 8 characters, maximum of at least 64) and 2FA</li>
     </ul>
 </section>
 <section>
@@ -133,7 +134,6 @@
 </section>
 
 ---
-
 
 <h2>Further information</h2>
 <ul class="r-fit-text">
