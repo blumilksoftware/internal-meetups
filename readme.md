@@ -20,8 +20,8 @@ Prowadzący następnego spotkania powininen być wytypowany na bieżącym spotka
 | #10 | 15 września 2021 | [Krzysztof Rewak](https://github.com/krzysztofrewak) | SQL Injection i XSS | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-09-15-web-security) |
 | #11 | 20 października 2021 | [Kamil Piech](https://github.com/kamilpiech97) | Testowanie z PESTEM | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-10-20-pest) |
 | #12 | 17 listopada 2021 | [Kamil Stefaniak](https://github.com/husskade) | Kryptografia | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-11-17-cryptography) |
-| #13 | 15 grudnia 2021 | [Mateusz Lencki](https://github.com/mlencki) | TBA | |
-| #14 | 19 stycznia 2022 | | | |
+| #13 | 15 grudnia 2021 | [Mateusz Lencki](https://github.com/mlencki) | Buddy | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-12-15-buddy) |
+| #14 | 19 stycznia 2022 | [Marcin Tracz](https://github.com/mtracz) | TBA | |
 | #15 | 16 lutego 2022 | | | |
 | #16 | 16 marca 2022 | | | |
 | #17 | 20 kwietnia 2022 | | | |
@@ -36,7 +36,6 @@ Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotk
 * jak korzystać z [GitHub Actions](https://github.com/features/actions)
 * platformy e-commerce w Laravel
 * GUI do zarządzania kontenerami Dockerowymi (np. [Portainer](https://www.portainer.io/))
-* CI/CD (np. [Buddy works](https://buddy.works/))
 * tips, tricks and plugins - PHPStorm
 * narzędzia przydatne podczas developerki
 * Laravel Enlightn ([Enlightn](https://www.laravel-enlightn.com))
