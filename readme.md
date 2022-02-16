@@ -6,28 +6,28 @@ Prowadzący następnego spotkania powininen być wytypowany na bieżącym spotka
 
 ## Tematy
 
-| # | Data | Prowadzący                                           | Temat                                            | Link                                                                                              |
-| --- | --- |------------------------------------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| #1 | 16 grudnia 2020 | [Marcin Tracz](https://github.com/mtracz)            | Zarządzanie kontenerami w Traefiku               | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2020-12-16-traefik)          |
-| #2 | 27 stycznia 2021 | [Mateusz Lencki](https://github.com/mlencki)         | Livewire                                         | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-01-27-livewire)         |
-| #3 | 24 lutego 2021 | [Ewelina Lasowy](https://github.com/EwelinaLasowy)   | Laravel Nova                                     | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-02-24-laravel-nova)     |
-| #4 | 19 marca 2021 | [Magdalena Bukowska](https://github.com/mbukowska)   | RubixML                                          | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-03-19-rubixml)          |
-| #5 | 21 kwietnia 2021 | [Jacek Sawoszczuk](https://github.com/jsawo)         | Linux                                            | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-04-21-linux)            |
-| #6 | 27 maja 2021 | [Piotr Nadybski](https://github.com/nadybski)        | Algorytmy szeregowania zadań                     |                                                                                                   |
-| #7 | 30 czerwca 2021 | [Kamil Stefaniak](https://github.com/husskade)       | Krypotwaluty                                     | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-06-30-cryptocurrencies) |
-| #8 | 3 sierpnia 2021 | [Adrian Hopek](https://github.com/Baakoma)           | Inertia.js                                       | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-08-03-inertia)          |
-| #9 | 18 sierpnia 2021 | [Kamil Piech](https://github.com/kamilpiech97)       | Paczki do uwierzytelniania                       | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-08-18-laravel-auth)     |
-| #10 | 15 września 2021 | [Krzysztof Rewak](https://github.com/krzysztofrewak) | SQL Injection i XSS                              | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-09-15-web-security)     |
-| #11 | 20 października 2021 | [Kamil Piech](https://github.com/kamilpiech97)       | Testowanie z PESTEM                              | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-10-20-pest)             |
-| #12 | 17 listopada 2021 | [Kamil Stefaniak](https://github.com/husskade)       | Kryptografia                                     | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-11-17-cryptography)     |
-| #13 | 15 grudnia 2021 | [Mateusz Lencki](https://github.com/mlencki)         | Buddy                                            | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-12-15-buddy)            |
-| #14 | 19 stycznia 2022 | [Marcin Tracz](https://github.com/mtracz)            | Portainer | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2022-01-19-portainer)        |
-| #15 | 16 lutego 2022 | [Ewelina Lasowy](https://github.com/EwelinaLasowy)   |                                                  |                                                                                                   |
-| #16 | 16 marca 2022 |                                                      |                                                  |                                                                                                   |
-| #17 | 20 kwietnia 2022 |                                                      |                                                  |                                                                                                   |
-| #18 | 18 maja 2022 |                                                      |                                                  |                                                                                                   |
-| #19 | 15 czerwca 2022 |                                                      |                                                  |                                                                                                   |
-| #20 | 20 lipca 2022 |                                                      |                                                  |                                                                                                   |
+| # | Data | Prowadzący                                         | Temat                              | Link                                                                                              |
+| --- | --- |----------------------------------------------------|------------------------------------|---------------------------------------------------------------------------------------------------|
+| #1 | 16 grudnia 2020 | [Marcin Tracz](https://github.com/mtracz)          | Zarządzanie kontenerami w Traefiku | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2020-12-16-traefik)          |
+| #2 | 27 stycznia 2021 | [Mateusz Lencki](https://github.com/mlencki)       | Livewire                           | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-01-27-livewire)         |
+| #3 | 24 lutego 2021 | [Ewelina Lasowy](https://github.com/EwelinaLasowy) | Laravel Nova                       | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-02-24-laravel-nova)     |
+| #4 | 19 marca 2021 | [Magdalena Bukowska](https://github.com/mbukowska) | RubixML                            | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-03-19-rubixml)          |
+| #5 | 21 kwietnia 2021 | [Jacek Sawoszczuk](https://github.com/jsawo)       | Linux                              | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-04-21-linux)            |
+| #6 | 27 maja 2021 | [Piotr Nadybski](https://github.com/nadybski)      | Algorytmy szeregowania zadań       |                                                                                                   |
+| #7 | 30 czerwca 2021 | [Kamil Stefaniak](https://github.com/husskade)     | Krypotwaluty                       | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-06-30-cryptocurrencies) |
+| #8 | 3 sierpnia 2021 | [Adrian Hopek](https://github.com/Baakoma)         | Inertia.js                         | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-08-03-inertia)          |
+| #9 | 18 sierpnia 2021 | [Kamil Piech](https://github.com/kamilpiech97)     | Paczki do uwierzytelniania         | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-08-18-laravel-auth)     |
+| #10 | 15 września 2021 | [Krzysztof Rewak](https://github.com/krzysztofrewak) | SQL Injection i XSS                | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-09-15-web-security)     |
+| #11 | 20 października 2021 | [Kamil Piech](https://github.com/kamilpiech97)     | Testowanie z PESTEM                | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-10-20-pest)             |
+| #12 | 17 listopada 2021 | [Kamil Stefaniak](https://github.com/husskade)     | Kryptografia                       | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-11-17-cryptography)     |
+| #13 | 15 grudnia 2021 | [Mateusz Lencki](https://github.com/mlencki)       | Buddy                              | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2021-12-15-buddy)            |
+| #14 | 19 stycznia 2022 | [Marcin Tracz](https://github.com/mtracz)          | Portainer                          | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2022-01-19-portainer)        |
+| #15 | 16 lutego 2022 | [Ewelina Lasowy](https://github.com/EwelinaLasowy) | Chrome DevTools                    | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2022-02-16-chrome-devtools)     |
+| #16 | 16 marca 2022 | [Piotr Nadybski](https://github.com/nadybski)      |                                    |                                                                                                   |
+| #17 | 20 kwietnia 2022 |                                                    |                                    |                                                                                                   |
+| #18 | 18 maja 2022 |                                                    |                                    |                                                                                                   |
+| #19 | 15 czerwca 2022 |                                                    |                                    |                                                                                                   |
+| #20 | 20 lipca 2022 |                                                    |                                    |                                                                                                   |
 
 ### Propozycje tematów
 
