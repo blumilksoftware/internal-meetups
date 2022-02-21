@@ -35,7 +35,6 @@ Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotk
 
 * jak korzystać z [GitHub Actions](https://github.com/features/actions)
 * platformy e-commerce w Laravel
-* GUI do zarządzania kontenerami Dockerowymi (np. [Portainer](https://www.portainer.io/))
 * tips, tricks and plugins - PHPStorm
 * narzędzia przydatne podczas developerki
 * Laravel Enlightn ([Enlightn](https://www.laravel-enlightn.com))
@@ -49,6 +48,14 @@ Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotk
 * Telescope ([Telescope](https://laravel.com/docs/8.x/telescope))
 * Docker Performance Improvement: Tips and Tricks
 * Go vs. PHP
+* WebAssembly
+* standard HTTP - deep dive (HTTP/2, HTTP/3, Server-Side Events etc.)
+* Vite.js
+* Web APIs - co poza wyświetlaniem stron robi przeglądarka (https://developer.mozilla.org/en-US/docs/Web/API)
+* CSS Houdini (https://developer.mozilla.org/en-US/docs/Web/Guide/Houdini)
+* Hexagonal Architecture
+* Server-Side Rendering
+* Fuzzing testing
 * pewnie milion innych rzeczy (śmiało dopisujcie)
 
 ### Repozytorium
