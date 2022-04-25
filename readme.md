@@ -35,10 +35,10 @@ Prowadzący następnego spotkania powininen być wytypowany na bieżącym spotka
 ### Propozycje tematów
 Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotkania, możesz zawsze skorzystać z podpowiedzi z listy poniżej. Jeżeli natomiast masz fajny temat o którym chciałbyś posłuchać, dodaj własne propozycje do tej samej listy:
 * jak korzystać z [GitHub Actions](https://github.com/features/actions)
-* platformy e-commerce w Laravel
+* platformy e-commerce w Laravelu
 * tips, tricks and plugins - PHPStorm
 * narzędzia przydatne podczas developerki
-* ([Enlightn](https://www.laravel-enlightn.com)
+* [Enlightn](https://www.laravel-enlightn.com)
 * [Appwire](https://appwrite.io/)
 * [xDebug](https://xdebug.org/)
 * [Swoole](https://www.swoole.co.uk/) i [RoadRunner](https://roadrunner.dev/)
@@ -47,16 +47,16 @@ Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotk
 * Laravel + Docker + Jobs - konfiguracja i użycie
 * [Horizon](https://laravel.com/docs/8.x/horizon)
 * [Telescope](https://laravel.com/docs/8.x/telescope)
-* Docker Performance improvements: Tips and Tricks
+* poprawienie wydajności Docker: tips & tricks
 * Go vs. PHP
 * WebAssembly
 * standard HTTP - deep dive (HTTP/2, HTTP/3, Server-Side Events etc.)
 * Vite.js
-* Web APIs - co poza wyświetlaniem stron robi przeglądarka (https://developer.mozilla.org/en-US/docs/Web/API)
-* CSS Houdini (https://developer.mozilla.org/en-US/docs/Web/Guide/Houdini)
-* Hexagonal Architecture
-* Server-Side Rendering
-* Fuzzing testing
+* [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) - co poza wyświetlaniem stron robi przeglądarka
+* [CSS Houdini](https://developer.mozilla.org/en-US/docs/Web/Guide/Houdini)
+* hexagonal architecture
+* server-side rendering
+* fuzzing testing
 * pewnie milion innych rzeczy (śmiało dopisujcie)
 
 ### Repozytorium
