@@ -76,7 +76,7 @@ class User extends Authenticatable
 
 ---
 
-<p>Example of meilisearch setup in docker</p>
+<p>Example of meilisearch setup in Docker</p>
 
 ```yaml
 meilisearch:
