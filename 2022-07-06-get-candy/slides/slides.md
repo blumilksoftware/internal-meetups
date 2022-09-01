@@ -55,7 +55,7 @@ php artisan vendor:publish --tag=getcandy
 
 ---
 
-<p>As the GetCandy heavly uses default laravel user. We need to add GetCandyUser trait to our model.</p>
+<p>As the GetCandy heavily uses default Laravel user. We need to add GetCandyUser trait to our model.</p>
 
 ```php
 use GetCandy\Base\Traits\GetCandyUser;
