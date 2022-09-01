@@ -20,7 +20,7 @@ or transmitting of funds or data, over an electronic network, primarily the inte
 ## GetCandy
 
 <p>
-An Opensource headless e-commerce package built on laravel. It provides a quite nice admin hub built on livewire.
+An opensource headless e-commerce package built on Laravel. It provides a quite nice admin hub built on Laravel Livewire.
 First version of GetCandy was developed in 2018. In 2021, after their newly learnt experience, they decided to create version 2.
 </p>
 
