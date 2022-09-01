@@ -146,7 +146,7 @@ php artisan getcandy:install
 
 ---
 
-<p>If we setted up meilisearch we need to run last command</p>
+<p>If we set up meilisearch we need to run last command</p>
 
 ```shell
 php artisan getcandy:meilisearch:setup
