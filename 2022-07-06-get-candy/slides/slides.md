@@ -189,7 +189,7 @@ php artisan getcandy:meilisearch:setup
 
 #### Cart Modifiers
 
-<p>If we need to modify a Cart before/after calculation took place. For this GetCandy uses Pipelines.</p>
+<p>If we need to modify a Cart this takes place before or after calculation. For this GetCandy uses Pipelines.</p>
 
 ```php
 class CustomCartModifier extends CartModifier
