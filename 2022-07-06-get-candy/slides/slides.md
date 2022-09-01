@@ -9,7 +9,7 @@
 ## E-commerce
 
 <p>E-commerce (electronic commerce) is the buying and selling of goods and services,
-or transmitting of funds or data, over an electronic network, primarly the internet. These transactions occur either as:</p>
+or transmitting of funds or data, over an electronic network, primarily the internet. These transactions occur either as:</p>
 <ul>
 <li>B2B - business-to-business</li>
 <li>B2C - business-to-consumer</li>
