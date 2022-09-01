@@ -152,7 +152,7 @@ php artisan getcandy:install
 php artisan getcandy:meilisearch:setup
 ```
 
-<p>It will generate any required indexes, filterable and sortable fields, that are needed for scout</p>
+<p>It will generate any required indexes, filterable and sortable fields, that are needed for Laravel Scout</p>
 
 ---
 
