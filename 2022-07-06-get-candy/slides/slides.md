@@ -1,4 +1,4 @@
-<h2>GetCandy - laravel <br> e-commerce package</h2>
+<h2>GetCandy - Laravel <br> e-commerce package</h2>
 
 <img style="height: 8em" data-src="presentations/2022-07-06-get-candy/images/getcandy_icon.svg">
 
