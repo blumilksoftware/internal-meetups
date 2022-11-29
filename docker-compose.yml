@@ -4,7 +4,7 @@ services:
     reveal.js:
         container_name: reveal.js
         image: ghcr.io/mlencki/reveal.js-docker:v1.0.0
-        user: ${CURRENT_UID}
+        user: ${CURRENT_UID:-1000}
         environment:
             PRESENTATION_PATH: ${PRESENTATION_PATH}
         ports:
