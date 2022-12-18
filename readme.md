@@ -1,5 +1,5 @@
 # blumilksoftware/internal-meetups
-Idea jest taka, aby raz w miesiącu organizować wewnętrzny meetup, na którym każdy programista będzie miał okazję i możliwość zaprezentować coś ciekawego. Tematyka dowolna, choć najlepiej powiązana z tym, co robimy w naszych projektach. Celujemy w półgodzinną prezentację lub livecoding plus czas na pytania i dyskusję. Planowo: środa w połowie miesiąca.
+Idea jest taka, aby raz w miesiącu organizować wewnętrzny meetup, na którym każdy programista będzie miał okazję i możliwość zaprezentować coś ciekawego. Tematyka dowolna, choć najlepiej powiązana z tym, co robimy w naszych projektach. Celujemy w półgodzinną prezentację lub livecoding plus czas na pytania i dyskusję. Planowo: poniedziałek w połowie miesiąca.
 
 Prowadzący następnego spotkania powinien być wytypowany na bieżącym spotkaniu. Docelowo chciałbym, abyśmy regularnie rotowali całym zespołem. Wszystkie spotkania powinny być widoczne w [firmowym kalendarzu](https://calendar.google.com/calendar/embed?src=c_6sb1ta5l4qspfdors4gc57fo94%40group.calendar.google.com&ctz=Europe%2FWarsaw).
 
@@ -28,9 +28,20 @@ Prowadzący następnego spotkania powinien być wytypowany na bieżącym spotkan
 | #20 | 17 sierpnia 2022     | [Anna Majchrzak](https://github.com/Letha0)          | Github - management tool     | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2022-08-17-github-management-tool) |
 | #21 | 28 września 2022     | [Michał Myśków](https://github.com/MichalMyskow)     | Saloon                       | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2022-09-28-saloon)                 |
 | #22 | 26 października 2022 | [Dawid Rudnik](https://github.com/dawidrudnik)       | Docker Compose v2            | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2022-10-26-docker-compose-v2)      |
-| #23 | 30 listopada 2022    | [Adrian Hopek](https://github.com/Baakoma)           | ?                            |                                                                                                         |
-| #24 | 21 grudnia 2022      |                                                      |                              |                                                                                                         |
-| #25 | 18 stycznia 2023     |                                                      |                              |                                                                                                         |
+| #23 | 30 listopada 2022    | [Adrian Hopek](https://github.com/Baakoma)           | Filament                     |                                                                                                         |
+| #24 | 19 grudnia 2022      | [Krzysztof Rewak](https://github.com/krzysztofrewak) | Scrapowanie internetu        |                                                                                                         |
+| #25 | 16 stycznia 2023     |                                                      |                              |                                                                                                         |
+| #25 | 20 lutego 2023       |                                                      |                              |                                                                                                         |
+| #25 | 20 marca 2023        |                                                      |                              |                                                                                                         |
+| #25 | 17 kwietnia 2023     |                                                      |                              |                                                                                                         |
+| #25 | 15 maja 2023         |                                                      |                              |                                                                                                         |
+| #25 | 19 czerwca 2023      |                                                      |                              |                                                                                                         |
+| #25 | 17 lipca 2023        |                                                      |                              |                                                                                                         |
+| #25 | 21 sierpnia 2023     |                                                      |                              |                                                                                                         |
+| #25 | 18 września 2023     |                                                      |                              |                                                                                                         |
+| #25 | 16 października 2023 |                                                      |                              |                                                                                                         |
+| #25 | 20 listopada 2023    |                                                      |                              |                                                                                                         |
+| #25 | 18 grudnia 2023      |                                                      |                              |                                                                                                         |
 
 ### Propozycje tematów
 Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotkania, możesz zawsze skorzystać z podpowiedzi z listy poniżej. Jeżeli natomiast masz fajny temat, o którym chciałbyś posłuchać, dodaj własne propozycje do tej samej listy:
