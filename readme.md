@@ -28,7 +28,7 @@ Prowadzący następnego spotkania powinien być wytypowany na bieżącym spotkan
 | #20 | 17 sierpnia 2022     | [Anna Majchrzak](https://github.com/Letha0)          | Github - management tool     | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2022-08-17-github-management-tool) |
 | #21 | 28 września 2022     | [Michał Myśków](https://github.com/MichalMyskow)     | Saloon                       | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2022-09-28-saloon)                 |
 | #22 | 26 października 2022 | [Dawid Rudnik](https://github.com/dawidrudnik)       | Docker Compose v2            | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2022-10-26-docker-compose-v2)      |
-| #23 | 30 listopada 2022    | [Adrian Hopek](https://github.com/Baakoma)           | ?                            |                                                                                                         |
+| #23 | 30 listopada 2022    | [Adrian Hopek](https://github.com/Baakoma)           | Filament PHP                 | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2022-11-30-filament-php)           |
 | #24 | 21 grudnia 2022      |                                                      |                              |                                                                                                         |
 | #25 | 18 stycznia 2023     |                                                      |                              |                                                                                                         |
 
