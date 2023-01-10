@@ -5,12 +5,12 @@
 ### Blumilk Internal meetup XXIV
 <br>
 <strong>Scrapowanie internetu (ale sensownie)</strong>
-<small><br>Krzysztof Rewak, 19 grudnia 2022</small>
+<small><br>Krzysztof Rewak, <span style="text-decoration: line-through">19 grudnia 2022</span> 10 stycznia 2023</small>
 <br>
-<img src="presentations/2022-12-19-webscrapping/images/blumilk.jpg" width="120px" alt="[logo Blumilk]">
+<img src="presentations/2023-01-10-webscrapping/images/blumilk.jpg" width="120px" alt="[logo Blumilk]">
 
 ---
-<img src="presentations/2022-12-19-webscrapping/images/bdd0kylwwsk81.webp">
+<img src="presentations/2023-01-10-webscrapping/images/bdd0kylwwsk81.webp">
 
 ---
 
@@ -19,7 +19,7 @@ To może najpierw: co byłoby niesensownym scrapowaniem?
 </section>
 
 <section>
-<img src="presentations/2022-12-19-webscrapping/images/jp2.png">
+<img src="presentations/2023-01-10-webscrapping/images/jp2.png">
 </section>
 
 <section>
@@ -41,7 +41,7 @@ Dzisiaj chciałem opowiedzieć o czymś bardziej:
 
 <section>
 
-<img src="presentations/2022-12-19-webscrapping/images/historiapojazdu.png">
+<img src="presentations/2023-01-10-webscrapping/images/historiapojazdu.png">
 
 </section>
 
