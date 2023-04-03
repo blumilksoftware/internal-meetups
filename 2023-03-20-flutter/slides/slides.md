@@ -1,11 +1,13 @@
 
 ### Blumilk Internal Meetup #26
 <br>
+<br>
 <img data-src="presentations/2023-03-20-flutter/images/logo.png" width="500px">
 <br>
 <br>
-<p>Mateusz Lencki, 20.02.2023</p>
-
+<br>
+<p>Mateusz Lencki, 21.03.2023</p>
+<br>
 ---
 
 <section>
@@ -253,7 +255,7 @@ pubspec.yaml
 
 <section>
 
-<strong>analysis-options.yaml</strong> - contains project's settings and dependencies
+<strong>analysis-options.yaml</strong> - static analysis config
 
 <img style="height:8em" data-src="presentations/2023-03-20-flutter/images/project-structure-6.png">
 
