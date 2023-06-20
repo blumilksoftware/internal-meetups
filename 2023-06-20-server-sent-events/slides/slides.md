@@ -1,4 +1,4 @@
-## Blumilk Internal Meetup #27
+## Blumilk Internal Meetup #29
 Server-sent events
 <br>
 <img style="height: 4em;" data-src="presentations/2023-06-20-server-sent-events/images/sse.gif">
@@ -49,7 +49,7 @@ Adrian Gawle
 <li>"Faster and more convenient to set up" than WebSockets*</li>
 </ul>
 
-<small>*End experience may vary</small>
+<small>*experience may vary</small>
 
 ---
 ### Drawbacks of SSE
