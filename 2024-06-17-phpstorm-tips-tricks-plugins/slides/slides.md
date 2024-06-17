@@ -96,6 +96,9 @@ Ctrl + Alt + Shift + Insert
 
 Key Promoter X
 
+<img src="presentations/2024-06-17-phpstorm-tips-tricks-plugins/images/key_promoter.png">
+<img src="presentations/2024-06-17-phpstorm-tips-tricks-plugins/images/key_promoter_2.png" style="">
+
 ---
 
 ### Rainbow Brackets
