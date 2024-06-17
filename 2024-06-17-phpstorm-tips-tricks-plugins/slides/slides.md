@@ -56,7 +56,7 @@ Aleksandra Kozubal, 17.06.2024
         <span>Lorem ipsum generate</span> <span style="color:dodgerblue">lorem[num] + tab</span>
     </div>
     <div style="display: flex; justify-content: space-between;">
-        <span>Multiple Cursor Support</span> <span style="color:dodgerblue">Alt + space</span>
+        <span>Multiple Cursor Support</span> <span style="color:dodgerblue">Alt + LMB</span>
     </div>
 </div>
 
