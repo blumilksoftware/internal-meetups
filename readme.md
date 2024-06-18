@@ -42,7 +42,7 @@ Prowadzący następnego spotkania powinien być wytypowany na bieżącym spotkan
 | #34 | 20 maja 2024         | [Adrian Hopek](https://github.com/Baakoma)                 | Laravel Pulse                     | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2024-05-20-laravel-pulse)                |
 | #35 | 17 czerwca 2024      | [Aleksandra Kozubal](https://github.com/AleksandraKozubal) | PhpStorm tips, tricks and plugins | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2024-06-17-phpstorm-tips-tricks-plugins) |
 | #36 | 15 lipca 2024        | [Karol Zygadło](https://github.com/KarolZygadlo)           |                                   |                                                                                                               |
-| #37 | 19 sierpnia 2024     | [Ewelina Lasowy](https://github.com/EwelinaLasowy)         |                                   |                                                                                                               |
+| #37 | 19 sierpnia 2024     | [Ewelina Skrzypacz](https://github.com/EwelinaSkrzypacz)   |                                   |                                                                                                               |
 | #38 | 16 września 2024     |                                                            |                                   |                                                                                                               |
 | #39 | 21 października 2024 |                                                            |                                   |                                                                                                               |
 | #40 | 18 listopada 2024    |                                                            |                                   |                                                                                                               |
@@ -51,10 +51,9 @@ Prowadzący następnego spotkania powinien być wytypowany na bieżącym spotkan
 ### Propozycje tematów
 Jeżeli nie masz pomysłu na temat, a zostałeś wytypowany do następnego spotkania, możesz zawsze skorzystać z podpowiedzi z listy poniżej. Jeżeli natomiast masz fajny temat, o którym chciałbyś posłuchać, dodaj własne propozycje do tej samej listy:
 * jak korzystać z [GitHub Actions](https://github.com/features/actions)
-* tips, tricks and plugins - PHPStorm
 * narzędzia przydatne podczas developerki
 * [Enlightn](https://www.laravel-enlightn.com)
-* [Appwire](https://appwrite.io/)
+* [Appwrite](https://appwrite.io/)
 * [xDebug](https://xdebug.org/)
 * [Swoole](https://www.swoole.co.uk/) i [RoadRunner](https://roadrunner.dev/)
 * [PHP PPM](https://github.com/php-pm/php-pm)
