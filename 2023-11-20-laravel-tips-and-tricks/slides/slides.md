@@ -1,4 +1,3 @@
-
 <div style="display: flex; justify-content: center; align-items: center; font-weight: bold">
 <img style="height: 1.5em; margin-right: 0.3em" data-src="presentations/2023-11-20-laravel-tips-and-tricks/images/blumilk-logo.png">
 <p style="padding-top: 0.5em; font-size: 0.7em;">Blumilk Internal Meetup #33</p>
@@ -250,4 +249,3 @@ Tylko "previous" i "next":
 
 ---
 ### Dziękuję
-
