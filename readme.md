@@ -41,9 +41,9 @@ Prowadzący następnego spotkania powinien być wytypowany na bieżącym spotkan
 | #33 | 31 stycznia 2024     | [Piotr Nadybski](https://github.com/nadybski)              | AI w publicu                      |                                                                                                               |
 | #34 | 20 maja 2024         | [Adrian Hopek](https://github.com/Baakoma)                 | Laravel Pulse                     | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2024-05-20-laravel-pulse)                |
 | #35 | 17 czerwca 2024      | [Aleksandra Kozubal](https://github.com/AleksandraKozubal) | PhpStorm tips, tricks and plugins | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2024-06-17-phpstorm-tips-tricks-plugins) |
-| #36 | 15 lipca 2024        | [Karol Zygadło](https://github.com/KarolZygadlo)           |                                   |                                                                                                               |
-| #37 | 19 sierpnia 2024     | [Ewelina Skrzypacz](https://github.com/EwelinaSkrzypacz)   |                                   |                                                                                                               |
-| #38 | 16 września 2024     |                                                            |                                   |                                                                                                               |
+| #36 | 15 lipca 2024        | [Ewelina Skrzypacz](https://github.com/EwelinaSkrzypacz)   | UX writing                        |                                                                                                               |
+| #37 | 19 sierpnia 2024     | [Karol Zygadło](https://github.com/KarolZygadlo)           |                                   |                                                                                                               |
+| #38 | 16 września 2024     | [Dawid Rudnik](https://github.com/dawidrudnik)             |                                   |                                                                                                               |
 | #39 | 21 października 2024 |                                                            |                                   |                                                                                                               |
 | #40 | 18 listopada 2024    |                                                            |                                   |                                                                                                               |
 | #41 | 16 grudnia 2024      |                                                            |                                   |                                                                                                               |
@@ -79,7 +79,7 @@ Moja propozycja to korzystanie z [reveal.js](https://revealjs.com/) jako fajnej 
 1. Utworzenie katalogu projektu w następującym formacie nazwy: `yyyy-mm-dd-tytuł-prezentacji`
 1. Skopiowanie .env: `cp .env.example .env`
 1. Zaktualizowanie zmiennej `PRESENTATION_PATH` według własnej ścieżki folderu.
-1. Uruchomienie projektu w dockerze: `docker-compose up`
+1. Uruchomienie projektu w Dockerze: `docker compose up`
 
 Domyślnie projekt będzie dostępny pod adresem: http://localhost:8888/
 
