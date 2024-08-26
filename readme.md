@@ -44,7 +44,7 @@ Prowadzący następnego spotkania powinien być wytypowany na bieżącym spotkan
 | #36 | 15 lipca 2024        | [Ewelina Skrzypacz](https://github.com/EwelinaSkrzypacz)   | UX writing                        |                                                                                                               |
 | #37 | 19 sierpnia 2024     | [Karol Zygadło](https://github.com/KarolZygadlo)           |                                   |                                                                                                               |
 | #38 | 16 września 2024     | [Dawid Rudnik](https://github.com/dawidrudnik)             |                                   |                                                                                                               |
-| #39 | 21 października 2024 |                                                            |                                   |                                                                                                               |
+| #39 | 21 października 2024 | [Kamil Stefaniak](https://github.com/husskade)             |                                   |                                                                                                               |
 | #40 | 18 listopada 2024    |                                                            |                                   |                                                                                                               |
 | #41 | 16 grudnia 2024      |                                                            |                                   |                                                                                                               |
 
