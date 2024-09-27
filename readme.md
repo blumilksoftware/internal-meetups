@@ -43,9 +43,9 @@ Prowadzący następnego spotkania powinien być wytypowany na bieżącym spotkan
 | #35 | 17 czerwca 2024      | [Aleksandra Kozubal](https://github.com/AleksandraKozubal) | PhpStorm tips, tricks and plugins | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2024-06-17-phpstorm-tips-tricks-plugins) |
 | #36 | 15 lipca 2024        | [Ewelina Skrzypacz](https://github.com/EwelinaSkrzypacz)   | UX writing                        |                                                                                                               |
 | #37 | 26 sierpnia 2024     | [Karol Zygadło](https://github.com/KarolZygadlo)           | Arch Linux                        | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2024-08-26-arch-linux)                   |
-| #38 | 16 września 2024     | [Dawid Rudnik](https://github.com/dawidrudnik)             |                                   |                                                                                                               |
+| #38 | 23 września 2024     | [Dawid Rudnik](https://github.com/dawidrudnik)             | TypeScript                        | [link](https://github.com/blumilksoftware/internal-meetups/tree/main/2024-09-23-typescript)                   |
 | #39 | 21 października 2024 | [Kamil Stefaniak](https://github.com/husskade)             |                                   |                                                                                                               |
-| #40 | 18 listopada 2024    |                                                            |                                   |                                                                                                               |
+| #40 | 18 listopada 2024    | [Agnieszka Rudek](https://github.com/Blusia)               |                                   |                                                                                                               |
 | #41 | 16 grudnia 2024      |                                                            |                                   |                                                                                                               |
 
 ### Propozycje tematów
